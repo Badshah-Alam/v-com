@@ -17,7 +17,8 @@ export default function NotFoundPage() {
           exist. It may have been obsolete, deleted, or you entered an invalid
           address in the address bar.
         </p>
-        <button className="mt-6 w-[15rem] mx-auto bg-gray-900 text-white text-sm font-medium px-6 py-3 shadow-md hover:bg-gray-800 rounded-3xl">
+        <button className="mt-6 w-[15rem] mx-auto bg-gray-900 text-whcls
+        ite text-sm font-medium px-6 py-3 shadow-md hover:bg-gray-800 rounded-3xl">
           Go To Home Page
         </button>
       </div>

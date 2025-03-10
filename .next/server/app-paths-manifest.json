@@ -1,5 +1,3 @@
 {
-  "/(page)/page": "app/(page)/page.js",
-  "/(page)/storeProfile/page": "app/(page)/storeProfile/page.js",
-  "/(page)/user-account/page": "app/(page)/user-account/page.js"
+  "/(page)/page": "app/(page)/page.js"
 }
